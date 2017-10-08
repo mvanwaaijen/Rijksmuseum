@@ -1,0 +1,14 @@
+{
+    "name": "rijksmuseum",
+    "version": "0.0.2",
+    "description": "Connects to Rijksmuseum api based on the following documentation: http://rijksmuseum.github.io/",
+    "main": "rijksmuseum.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Marcel van Waaijen",
+    "license": "ISC",
+    "dependencies": {
+        "request": "^2.83.0"
+    }
+}
