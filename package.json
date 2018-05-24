@@ -1,6 +1,6 @@
 {
     "name": "rijksmuseum",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Connects to Rijksmuseum api based on the following documentation: http://rijksmuseum.github.io/",
     "main": "rijksmuseum.js",
     "scripts": {
@@ -9,6 +9,6 @@
     "author": "Marcel van Waaijen",
     "license": "ISC",
     "dependencies": {
-        "request": "^2.83.0"
+        "request": "^2.87.0"
     }
 }
